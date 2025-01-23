@@ -1,0 +1,19 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./modules/name.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DGONNE/node-hello-world.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DGONNE/node-hello-world/issues"
+  },
+  "homepage": "https://github.com/DGONNE/node-hello-world#readme",
+  "description": ""
+}
